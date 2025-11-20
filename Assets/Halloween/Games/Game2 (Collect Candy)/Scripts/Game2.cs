@@ -63,7 +63,7 @@ public class Game2 : MonoBehaviour
                 hand.SetActive(false);
 
             witch.gravityScale = 0.8f;
-            witch.velocity = Vector2.zero;
+            witch.linearVelocity = Vector2.zero;
             witch.AddForce(Vector2.up * 200);
             SoundManager.instance.PlaySound(1);
         }

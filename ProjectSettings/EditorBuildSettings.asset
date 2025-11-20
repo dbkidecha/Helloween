@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Halloween/Scenes/Splash.unity
+    guid: b8d5298069fb7e74788476e9b6e9dc46
+  - enabled: 1
+    path: Assets/Halloween/Scenes/Home.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Halloween/Games/Game1 (Decorate Pumpkin)/Game1.unity
+    guid: 9c717521836d4f641923131689e4c2f9
+  - enabled: 1
+    path: Assets/Halloween/Games/Game2 (Collect Candy)/Game2.unity
+    guid: b3a61e477fb555549906007d6bc88db0
+  - enabled: 1
+    path: Assets/Halloween/Games/Game3 (Memory Cards)/Game3.unity
+    guid: afda5863b9e1d914481d86d805f7ea08
+  - enabled: 1
+    path: Assets/Halloween/Games/Game4 (Spin-Trick&Treat-Spooky)/Game4.unity
+    guid: cdbabdeed51d26a4395504fa12353b31
+  - enabled: 1
+    path: Assets/Halloween/Games/Game5 (Pumpkin)/Game5.unity
+    guid: e1ea8e3e0d43dd047af80c041a30a72b
+  - enabled: 1
+    path: Assets/Halloween/Games/Game6 (Cooking)/Game6.unity
+    guid: 6baa4f15a6c67664f92e53f05d8c6a37
+  - enabled: 1
+    path: Assets/Halloween/Games/Game7 (Collect Ghost)/Game7.unity
+    guid: f3144fa6cc2fda64795f1b62dea11c86
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a8778d4297561a147a9623398beacfa7, type: 2}
